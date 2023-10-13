@@ -1,4 +1,8 @@
 .app {
-  max-width: 100rem;
-  padding: auto;
+  width: 100%;
+}
+
+.sticky {
+  position: sticky;
+  top: 1px;
 }

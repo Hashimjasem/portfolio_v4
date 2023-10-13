@@ -4,8 +4,8 @@ import { Link } from "react-scroll";
 function Nav() {
     return (
         <header>
-            <nav >
-                <ul className="nav">
+            <nav className="nav">
+                <ul className="nav-items">
                     <li>
                         <Link activeClass="active" smooth spy to="about">
                             ABOUT
