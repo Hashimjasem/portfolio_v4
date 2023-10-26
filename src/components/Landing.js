@@ -1,13 +1,13 @@
-import '../Styles/About.css'
+import '../Styles/Landing.css'
 import portrait from '../assets/sticker.png'
 import left from '../assets/left_arrow.svg'
 import right from '../assets/right_arrow.svg'
 import up from '../assets/up_arrow.svg'
 import down from '../assets/down_arrow.svg'
 
-function About() {
+function Landing() {
     return (
-        <div className="AboutSec">
+        <div className="LandingSec">
             <div className='container' >
                 <div className='portrait'>
                     <img src={portrait} alt='Portrait' className='image'></img>
@@ -34,4 +34,4 @@ function About() {
     );
 }
 
-export default About;
+export default Landing;
