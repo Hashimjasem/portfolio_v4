@@ -2,7 +2,7 @@
 
 .app {
   width: 100%;
-  background-image: linear-gradient(110deg, rgb(255, 111, 0),  rgb(196, 0, 206), rgb(130, 0, 137));
+  background-image: linear-gradient(110deg, rgb(255, 111, 0),  rgb(206, 0, 117), rgb(166, 15, 141), rgb(130, 0, 137));
 }
 
 .sticky {
@@ -12,4 +12,5 @@
 
 * {
   font-family: 'Jomhuria', serif;
+  letter-spacing: 0.05em;
 }

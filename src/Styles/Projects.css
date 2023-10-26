@@ -3,6 +3,7 @@
     width: 100%;
     display: flex;
     justify-items: center;
+    background-color: blue;
 }
 
 .project-container {
