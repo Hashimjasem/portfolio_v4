@@ -1,7 +1,6 @@
 .ProjectsSec {
     height: fit-content;
     width: 100%;
-    background-color: rgba(165, 149, 149, 1);
     display: flex;
     justify-items: center;
 }
