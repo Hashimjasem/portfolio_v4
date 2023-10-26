@@ -1,5 +1,5 @@
 .nav {
-    background-color: rgb(171, 10, 136);
+    background-color: rgb(77, 0, 61);
     height: 8vh;
     padding-left: 15%;
     padding-right: 15%;
@@ -15,4 +15,7 @@
     justify-content: space-between;
     list-style: none;
     cursor: pointer;
+    color: white;
+    font-size: 1.3rem;
+    letter-spacing: 0.1em;
 }
