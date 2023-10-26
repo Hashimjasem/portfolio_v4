@@ -6,14 +6,12 @@
 .wrapper {
     height: 80%;
     width: 80%;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
     margin: auto;
     padding-top: 6vh;
 }
 
 .About-container {
+    margin-top: 2rem;
     padding: 1rem;
     width: 100%;
     height: fit-content;
@@ -34,7 +32,8 @@
 }
 
 .Hobbies-container {
-    padding: 2rem;
+    margin-top: 2rem;
+    padding: 1rem;
     width: 100%;
     height: fit-content;
     color: white;
@@ -42,19 +41,21 @@
 }
 
 .Hobbies-header{
+    width: 100%;
     margin: 0;
     padding: 0%;
     font-size: xx-large;
 }
 
 .Hobbies-text{
-    margin: 0;
+    margin: 0%;
     padding: 0%;
     font-size: x-large;
 }
 
 .Education-container {
-    padding: 2rem;
+    margin-top: 2rem;
+    padding: 1rem;
     width: 100%;
     height: fit-content;
     color: white;

@@ -18,7 +18,7 @@ function About() {
                     </p>
                 </div>
                 <div className='Education-container'>
-                    <h1 className='Education-header'>Education</h1>
+                    <h1 className='Education-header'>My Software Journey</h1>
                     <p className='Education-text'>
                         I completed the UWA Full-Stack Software Development Bootcamp in Feb 2023. Now I code everyday!
                         My favourite part of software development is thinking of ambitious ideas and having no clue how to do it at first. But through determination to see my ideas come to fruition, i will eventually have my completed project. I continue to improve every week and now I even have a real client!
