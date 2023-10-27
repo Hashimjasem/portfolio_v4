@@ -12,13 +12,13 @@ function Nav() {
                         </Link>
                     </li>
                     <li>
-                        <Link activeClass="active" smooth spy to="projects">
-                            PROJECTS
+                        <Link activeClass="active" smooth spy to="blog">
+                            LANGUAGES & TECHNOLOGIES
                         </Link>
                     </li>
                     <li>
-                        <Link activeClass="active" smooth spy to="blog">
-                            LANGUAGES & TECHNOLOGIES
+                        <Link activeClass="active" smooth spy to="projects">
+                            PROJECTS
                         </Link>
                     </li>
                     <li>
