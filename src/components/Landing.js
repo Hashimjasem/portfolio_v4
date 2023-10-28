@@ -27,10 +27,8 @@ function Landing() {
                         <img src={left} alt='leftkey' className='key leftkey'></img>
                         <img src={down} alt='downkey' className='key downkey'></img>
                         <img src={right} alt='rightkey' className='key rightkey'></img>
-
-
-
                     </div>
+                    
                 </div>
 
             </div>
