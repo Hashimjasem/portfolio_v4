@@ -27,6 +27,7 @@ function About() {
                         Now I would love to find an organisation to help me grow and become a better developer.
                         I am also hoping to got back to uni to study engineering in 2024</p>
                 </div>
+                
             </div>
 
 

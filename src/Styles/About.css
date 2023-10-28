@@ -1,79 +1,49 @@
 .AboutSec {
     height: 92vh;
-    /* background-color: aqua; */
+    background-color: rgb(230, 122, 122);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .wrapper {
-    height: 80%;
-    width: 80%;
-    margin: auto;
-    padding-top: 6vh;
+    width: 40rem;
+    height: fit-content;
 }
 
 .About-container {
-    margin-top: 2rem;
-    padding: 1rem;
-    width: 100%;
-    height: fit-content;
     color: white;
     background-color: rgba(0, 0, 0, 0.499);
 }
 
 .About-header{
-    margin: 0;
-    padding: 0%;
-    font-size: xx-large;
 }
 
 .About-text{
-    margin: 0;
-    padding: 0%;
-    font-size: x-large;
 }
 
 .Hobbies-container {
-    margin-top: 2rem;
-    padding: 1rem;
-    width: 100%;
-    height: fit-content;
     color: white;
     background-color: rgba(0, 0, 0, 0.499);
 }
 
 .Hobbies-header{
-    width: 100%;
-    margin: 0;
-    padding: 0%;
-    font-size: xx-large;
 }
 
 .Hobbies-text{
-    margin: 0%;
-    padding: 0%;
-    font-size: x-large;
+
 }
 
 .Education-container {
-    margin-top: 2rem;
-    padding: 1rem;
-    width: 100%;
-    height: fit-content;
     color: white;
     background-color: rgba(0, 0, 0, 0.499);
 }
 
 .Education-header{
-    margin: 0;
-    padding: 0%;
-    font-size: xx-large;
 }
 
 .Education-text{
-    margin: 0;
-    padding: 0%;
-    font-size: x-large;
 }
 
 .par-2{
-    padding-top: 1rem;
 }
