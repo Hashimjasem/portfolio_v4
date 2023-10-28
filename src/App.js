@@ -9,12 +9,12 @@ import About from './components/About';
 function App() {
   return (
     <div className="app">
-      {/* <Landing/> */}
-      {/* <div className="sticky"><Nav/></div> */}
+      <Landing/>
+      <div className="sticky"><Nav/></div>
       <About/>
-      {/* <Education/> */}
-      {/* <Projects/> */}
-      {/* <Skills/> */}
+      <Education/>
+      <Projects/>
+      <Skills/>
     </div>
   );
 }

@@ -1,11 +1,14 @@
 .EducationSec {
     height: 92vh;
     /* background-color: rgb(184, 114, 34); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .wrapper {
-    height: 80%;
-    width: 80%;
+    width: 80rem;
+    height: fit-content;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
